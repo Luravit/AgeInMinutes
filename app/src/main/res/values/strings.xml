@@ -6,4 +6,5 @@
     <string name="select_date" >select date</string>
     <string name="in_minutes" >in minutes</string>
     <string name="calculate_your" >calculate your</string>
+    <string name="empty" />
 </resources>
